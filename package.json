@@ -13,6 +13,7 @@
     "dist"
   ],
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "git://github.com/zg52/svg-tag-view.git"
   }
 }
